@@ -14,4 +14,4 @@ the main purpose of the code is to apply and test new approaches of AI algorithm
 ## How to Contribute
 
 
-All help and contribution his welcome .
+All help and contribution are welcome .
