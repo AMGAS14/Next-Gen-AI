@@ -1,7 +1,7 @@
 
 
-
-
+controli = Control-Unit.ci;
+memoryi = Write-Unit.mi;
 
 
 class Control-Unit :
