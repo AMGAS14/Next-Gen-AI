@@ -1,18 +1,13 @@
 
 
-controli = Control-Unit.ci;
-memoryi = Write-Unit.mi;
+controli = ControlUnit.ci;
+memoryi = WriteUnit.mi;
 
 
-class Control-Unit :
+class ControlUnit :
 
 
+class ReadUnit :
 
 
-
-class Read-Unit :
-
-
-
-
-class Write-Unit :
+class WriteUnit :
