@@ -14,10 +14,10 @@ class rnn:
         into a series of operations (control) 
         that retrieve information from the image (knowledge base)\
     '''
-
+    def __init__() :
 
 
 class outputunit:                                           # class definition
 
-
+    def __init__() :
     
