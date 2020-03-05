@@ -1,4 +1,7 @@
 # Next-Gen-AI
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=AMGAS14_Next-Gen-AI&metric=alert_status)](https://sonarcloud.io/dashboard?id=AMGAS14_Next-Gen-AI)
+
  A Repository to keep track with new AI developments that try to overcome the current challenges and that move away from the traditional AI techniques
 
  
