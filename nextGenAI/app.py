@@ -1,5 +1,5 @@
 # app.py
-class nextGenAI:
+class NextGenAI:
 
     @staticmethod
     def run():
